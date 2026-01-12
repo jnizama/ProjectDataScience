@@ -39,7 +39,7 @@
 
 ## 🎯 Project Goal
 
-This project is part of my **professional data portfolio** and demonstrates my ability to:
+This project is part of my **Python Project for Data Science** and demonstrates my ability to:
 
 - Work with real-world, messy data
 - Apply data cleaning and transformation techniques
@@ -49,4 +49,4 @@ This project is part of my **professional data portfolio** and demonstrates my a
 
 ---
 
-📌 *If you are looking for someone with hands-on experience in Data Science, Data Analysis, and Python-based analytics — this project reflects how I work end-to-end.*
+
